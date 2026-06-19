@@ -1,24 +1,42 @@
-# prefix,country_code,region_code,city,postal
-204.10.194.0/24,DE,DE-BY,Nuremberg,90431
-45.61.161.0/24,DE,DE-BY,Nuremberg,90431
-45.61.162.0/24,US,US-NY,New York City,10004
-45.8.22.0/24,US,US-CA,Los Angeles,90009
-212.193.3.0/24,DE,DE-BY,Nuremberg,90431
-146.19.215.0/24,DE,DE-BY,Nuremberg,90431
-170.205.28.0/24,US,US-FL,Miami,33101
-170.205.29.0/24,JP,JP-13,Tokyo,101-8656
-170.205.30.0/24,US,US-CA,Los Angeles,90009
-170.205.31.0/24,US,US-CA,Los Angeles,90009
-23.137.104.0/24,US,US-FL,Miami,33101
-23.137.105.0/24,US,US-MO,North Kansas City,64116
-160.187.210.0/23,MY,MY-01,Iskandar Puteri,79200
-185.128.227.0/24,MY,MY-01,Iskandar Puteri,79200
-2602:fb54:900::/40,US,US-MO,North Kansas City,64116
-2602:fb54:800::/40,JP,JP-13,Tokyo,101-8656
-2602:fb54:700::/40,US,US-NY,New York City,10004
-2602:fb54:600::/40,MY,MY-01,Iskandar Puteri,79200
-2602:fb54:500::/40,US,US-CA,Los Angeles,90009
-2602:fb54:400::/40,US,US-FL,Miami,33101
-2602:fb54:300::/40,DE,DE-BY,Nuremberg,90431
-2602:fb54:154::/48,US,US-CA,Los Angeles,90009
-2602:fb54:151::/48,US,US-CA,Los Angeles,90009
+# prefix,country_code,region_code,city
+45.61.161.0/24,DE,DE-BY,Nuremberg
+146.19.215.0/24,DE,DE-BY,Nuremberg
+185.147.159.0/24,DE,DE-BY,Nuremberg
+193.160.32.0/24,DE,DE-BY,Nuremberg
+204.10.194.0/24,DE,DE-BY,Nuremberg
+207.241.172.0/24,DE,DE-BY,Nuremberg
+212.193.3.0/24,DE,DE-BY,Nuremberg
+160.187.210.0/23,MY,MY-01,Iskandar Puteri
+185.128.227.0/24,MY,MY-01,Iskandar Puteri
+208.84.103.0/24,MY,MY-01,Iskandar Puteri
+45.8.22.0/24,US,US-CA,Los Angeles
+142.248.83.0/24,US,US-CA,Los Angeles
+170.205.30.0/24,US,US-CA,Los Angeles
+170.205.31.0/24,US,US-CA,Los Angeles
+23.137.105.0/24,US,US-MO,North Kansas City
+65.110.40.0/24,US,US-MO,North Kansas City
+142.248.80.0/24,US,US-MO,North Kansas City
+142.248.81.0/24,US,US-MO,North Kansas City
+207.241.173.0/24,US,US-MO,North Kansas City
+208.84.100.0/24,US,US-MO,North Kansas City
+208.84.101.0/24,US,US-MO,North Kansas City
+208.84.102.0/24,US,US-MO,North Kansas City
+23.137.104.0/24,US,US-FL,Miami
+170.205.28.0/24,US,US-FL,Miami
+45.61.162.0/24,US,US-NY,New York City
+142.248.82.0/24,US,US-NY,New York City
+170.205.29.0/24,JP,JP-13,Tokyo
+2602:fb54:1000::/39,MY,MY-01,Iskandar Puteri
+2602:fb54:1200::/39,US,US-CA,Los Angeles
+2602:fb54:1400::/39,US,US-MO,North Kansas City
+2602:fb54:1600::/39,US,US-FL,Miami
+2602:fb54:1800::/39,DE,DE-BY,Nuremberg
+2602:fb54:1a00::/39,US,US-MO,North Kansas City
+2602:fb54:1c00::/39,MY,MY-01,Iskandar Puteri
+2602:fb54:1e00::/39,DE,DE-BY,Nuremberg
+2a04:c300::/38,US,US-CA,Los Angeles
+2a04:c300:400::/38,US,US-MO,North Kansas City
+2a04:c300:800::/38,MY,MY-01,Iskandar Puteri
+2a04:c300:c00::/38,DE,DE-BY,Nuremberg
+2602:fb54:154::/48,US,US-CA,Los Angeles
+2602:fb54:151::/48,US,US-CA,Los Angeles
